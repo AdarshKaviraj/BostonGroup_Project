@@ -1,1 +1,1 @@
-# BCG_Project
+# Boston Group Project
